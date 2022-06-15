@@ -6,7 +6,7 @@ Function | Description
 [03.Renewal Domain](03.RenewalDomain.md) | Renew domain.
 [04.Delete Domain](04.DeleteDomain.md) | Delete domain.
 [05.Modify WHOIS](05.ModifyWHOIS.md) | Modify domain WHOIS contact info.
-[06.Registration Transfer Domain](06.RegistrationTransferDomain.md) | Initiate domain transfer from other Registrar to WEBNIC.
+[06.Registration Transfer Domain](06.RegistrarTransferDomain.md) | Initiate domain transfer from other Registrar to WEBNIC.
 [07.Transfer Ownership](07.TransferOwnership.md) | Transfer ownership of a domain name.
 [08.Replace ContactHandle](08.ReplaceContactHandle.md) | Replace domain contact handle
 [09.Get Webnic WHOIS Information](09.GetWebnicWHOISInformation.md) | Display domain name using WEBNIC WHOIS information
