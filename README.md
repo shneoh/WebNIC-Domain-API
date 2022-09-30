@@ -1,5 +1,4 @@
-# WebNIC-Domain-API
-
-## EN Folder --> English version
-## Simplified --> Chinese Simplified version
-## Traditional --> Chinese Traditional version
+<!-- # Document Directory #
+* [English version](DomainAPI-EN-binded.md) (Pending)
+* [Chinese Simplified version](DomainAPI-CN-binded.md) (Ready)
+* [Chinese Traditional version](DomainAPI-ZH-binded.md) (Pending) -->
